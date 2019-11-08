@@ -5,6 +5,7 @@ Changelog for package pilz_robot_programming
 Forthcoming
 -----------
 * Override speed of motions
+* Adapt to new brake test srv definitions in pilz_msgs
 * Contributors: Pilz GmbH and Co. KG
 
 0.4.7 (2019-09-10)
